@@ -19,3 +19,7 @@ C:\Users\popco\Documents\!Computing Work\MazeProject\Maze\Maze\obj\Debug\Maze.vb
 C:\Users\popco\Documents\!Computing Work\MazeProject\Maze\Maze\obj\Debug\Maze.exe
 C:\Users\popco\Documents\!Computing Work\MazeProject\Maze\Maze\obj\Debug\Maze.xml
 C:\Users\popco\Documents\!Computing Work\MazeProject\Maze\Maze\obj\Debug\Maze.pdb
+C:\Users\popco\Documents\!Computing Work\MazeProject\Maze-Game\Maze\Maze\obj\Debug\Maze.vbprojAssemblyReference.cache
+C:\Users\popco\Documents\!Computing Work\MazeProject\Maze-Game\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\popco\Documents\!Computing Work\MazeProject\Maze-Game\Maze\Maze\obj\Debug\Maze.xml
+C:\Users\popco\Documents\!Computing Work\MazeProject\Maze-Game\Maze\Maze\obj\Debug\Maze.pdb
