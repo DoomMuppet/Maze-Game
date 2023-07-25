@@ -1,0 +1,21 @@
+C:\Users\popco\source\repos\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\popco\source\repos\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\popco\source\repos\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\popco\source\repos\Maze\Maze\bin\Debug\Maze.xml
+C:\Users\popco\source\repos\Maze\Maze\obj\Debug\Maze.vbprojAssemblyReference.cache
+C:\Users\popco\source\repos\Maze\Maze\obj\Debug\Maze.Resources.resources
+C:\Users\popco\source\repos\Maze\Maze\obj\Debug\Maze.vbproj.GenerateResource.cache
+C:\Users\popco\source\repos\Maze\Maze\obj\Debug\Maze.vbproj.CoreCompileInputs.cache
+C:\Users\popco\source\repos\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\popco\source\repos\Maze\Maze\obj\Debug\Maze.xml
+C:\Users\popco\source\repos\Maze\Maze\obj\Debug\Maze.pdb
+C:\Users\popco\source\repos\Maze\Maze\obj\Debug\Maze.Maze.resources
+C:\Users\popco\source\repos\Maze\Maze\obj\Debug\Maze.Welcome.resources
+F:\Program\MazeProject\Maze\Maze\obj\Debug\Maze.vbprojAssemblyReference.cache
+F:\Program\MazeProject\Maze\Maze\obj\Debug\Maze.exe
+F:\Program\MazeProject\Maze\Maze\obj\Debug\Maze.xml
+F:\Program\MazeProject\Maze\Maze\obj\Debug\Maze.pdb
+C:\Users\popco\Documents\!Computing Work\MazeProject\Maze\Maze\obj\Debug\Maze.vbprojAssemblyReference.cache
+C:\Users\popco\Documents\!Computing Work\MazeProject\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\popco\Documents\!Computing Work\MazeProject\Maze\Maze\obj\Debug\Maze.xml
+C:\Users\popco\Documents\!Computing Work\MazeProject\Maze\Maze\obj\Debug\Maze.pdb
